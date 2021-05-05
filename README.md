@@ -3,4 +3,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Fizhu&&show_icons=true&count_private=true&line_height=40)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizhu&hide=html)
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fizhu" alt="Fizhu" /></a></p>
+<p><a href="https://github.com/Fizhu"><img src="https://github-profile-trophy.vercel.app/?username=Fizhu" alt="Fizhu" /></a></p>
